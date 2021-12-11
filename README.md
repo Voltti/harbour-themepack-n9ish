@@ -1,5 +1,9 @@
 # harbour-themepack-n9ish
-N9ish Icon Pack for Sailfish OS.
+Based on N9ish Icon Pack for Sailfish OS.
+--
+A bit of testing project to get to know some developement tools - hopefully getting something useful out of it.
+
+9ish readme:
 --
 
 <p align="center">
